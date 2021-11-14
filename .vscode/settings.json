@@ -1,0 +1,7 @@
+{
+    "terminal.external.osxExec": "/bin/zsh",
+    "terminal.integrated.fontFamily": "'Source Code Pro for Powerline', 'Hack Nerd Font'",
+    "terminal.explorerKind": "external",
+    "terminal.integrated.rendererType": "canvas",
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true
+}
